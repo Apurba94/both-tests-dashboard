@@ -1,0 +1,1 @@
+window.SK_META = {"name": "both-tests-dashboard", "title": "GRE and TOEFL Dashboard", "exam": "BOTH", "area": "TOEFL Planning and Both Tests", "desc": "One page that brings together your study time, accuracy, streaks and weak areas from every app.", "content": [], "n": 99};
